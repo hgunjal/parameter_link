@@ -1,0 +1,13 @@
+layout:
+  - Excel-Datei laden
+  - ---                    # Separator Lines
+  - Allgemein Attribute
+  - Objekttyp auswählen
+  - Zuordnung Value (X)
+  - Zuweisung von Werten
+  - ---                    # Separator Lines
+  - weitere Attribute
+  - ---                    # Separator Lines
+  - Family Parameters
+  - ---                    # Separator Lines
+  - Projektinformation
